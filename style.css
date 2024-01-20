@@ -1,0 +1,28 @@
+.body{
+
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+
+
+
+#carouselExampleIndicators > div.carousel-inner > div.carousel-item.active > img{
+
+    border-radius: 15px;
+}
+
+#navbarsExample11 > div > button > a{
+
+    text-decoration: none;
+    color: white;
+}
+
+body > div > div.row.flex-lg-row-reverse.align-items-center.g-5.py-5 > div.col-10.col-sm-8.col-lg-7 > img{
+    border-radius: 15px; 
+}
+
+#featured-3 > div > div:nth-child(1) > div{
+    width: 36px;
+    height: 36px;
+}
